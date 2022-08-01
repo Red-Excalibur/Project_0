@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
 
 
         Toast.makeText(this,"Updates using the command line",Toast.LENGTH_LONG)
+
+        now i ll fuc k up the program
     }
 }
