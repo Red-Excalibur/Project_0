@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(this,"Updates using the command line",Toast.LENGTH_LONG).show()
         //i guess this is all
+        //one last to test push
+
     }
 }
