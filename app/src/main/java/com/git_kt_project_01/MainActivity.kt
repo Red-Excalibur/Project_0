@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        Toast.makeText(this,"Updates using the command line",Toast.LENGTH_LONG)
+        Toast.makeText(this,"Updates using the command line",Toast.LENGTH_LONG).show()
+        //i guess this is all
     }
 }
